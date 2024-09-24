@@ -7,4 +7,4 @@
 ## Описание проектов:
 | Номер проекта | Название и ссылка | О чем проект                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
-|1              |[Введение](https://drive.google.com/file/d/14Yc3dRmn87m_SSQbSMVOPfZi3Yt_1KYP/view)|Знакомство с DL|
+|1              |[Введение](https://drive.google.com/file/d/14Yc3dRmn87m_SSQbSMVOPfZi3Yt_1KYP/view) (https://docs.google.com/presentation/d/1yi_dbIPsMqvdUoyaaDoxsVQi0_aOjl_E/edit#slide=id.p9)|Знакомство с DL|
