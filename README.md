@@ -12,3 +12,4 @@
 |3              |[Scilit-learn](https://github.com/AlexeyK12/DLS/blob/main/Homework_1_game_of_thrones_prediction_ipynb%22.ipynb) |ДЗ_1 - EDA и прогноз выживших героев "Игры престолов"|
 |4              |[Линейные модели и методы оптимизации](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_2__%22%5Bhomework%5Dlinear_models_fall_2024_ipynb%22.ipynb) |ДЗ_2 - Классы логистической регрессии для бинарной классификации и логистической регрессии с регуляризацией|
 |5              |[Деревья принятия решений и ансамблевые алгоритмы](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_2_%22hw_kaggle_ipynb%22.ipynb) |ДЗ_3 - соревнование DLS на Kaggle - прогнозирование оттока|
+|6              |[Введение в PyTorch](https://github.com/AlexeyK12/DLS/blob/main/%22Введение_в_PyTorch_ipynb%22.ipynb) |База PyTorch для создания нейронных сетей|
