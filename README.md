@@ -16,3 +16,4 @@
 |7              |[Torch_autograd](https://github.com/AlexeyK12/DLS/blob/main/%22Torch_autograd_ipynb%22.ipynb) |Подробнее об использовании тензоров и вычислении автоградиентов|
 |8              |[Свёрточные нейронные сети](https://github.com/AlexeyK12/DLS/blob/main/Свёрточные%20нейронные%20сети.pdf) |Презентация CNN|
 |9              |[Семинар_CNN_1_PyTorch](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvnet_pytorch.ipynb)  [Семинар_CNN_2_Pooling](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvolution_pooling.ipynb)   [Семинар_CNN_3_Practice](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dcreating_module.ipynb)|Семинары по CNN|
+|10              |[Полносвязные и свёрточные нейронные сети](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_4_%22%5Bhomework%5Ddense_and_convolutional_nn_ipynb%22.ipynb) |ДЗ_4 - по FCN и CNN|
