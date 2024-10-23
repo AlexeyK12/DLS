@@ -13,6 +13,7 @@
 |4              |[Линейные модели и методы оптимизации](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_2__%22%5Bhomework%5Dlinear_models_fall_2024_ipynb%22.ipynb) |ДЗ_2 - Классы логистической регрессии для бинарной классификации и логистической регрессии с регуляризацией|
 |5              |[Деревья принятия решений и ансамблевые алгоритмы](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_2_%22hw_kaggle_ipynb%22.ipynb) |ДЗ_3 - соревнование DLS на Kaggle - прогнозирование оттока|
 |6              |[Введение в PyTorch](https://github.com/AlexeyK12/DLS/blob/main/%22Введение_в_PyTorch_ipynb%22.ipynb) |База PyTorch для создания нейронных сетей|
+|6/1            |[Семинар PyTorch](https://stepik.org/lesson/1254181/step/1?unit=1483218) |Практическое занятие по PyTorch|
 |7              |[Torch_autograd](https://github.com/AlexeyK12/DLS/blob/main/%22Torch_autograd_ipynb%22.ipynb) |Подробнее об использовании тензоров и вычислении автоградиентов|
 |8              |[Свёрточные нейронные сети](https://github.com/AlexeyK12/DLS/blob/main/Свёрточные%20нейронные%20сети.pdf) |Презентация CNN|
 |9              |[Семинар_CNN_1_PyTorch](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvnet_pytorch.ipynb)  [Семинар_CNN_2_Pooling](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvolution_pooling.ipynb)   [Семинар_CNN_3_Practice](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dcreating_module.ipynb)|Семинары по CNN|
