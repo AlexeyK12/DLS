@@ -20,3 +20,4 @@
 |10             |[Семинар_CNN_1_PyTorch](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvnet_pytorch.ipynb)  [Семинар_CNN_2_Pooling](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconvolution_pooling.ipynb)   [Семинар_CNN_3_Practice](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dcreating_module.ipynb)|Семинары по CNN|
 |11             |[Практика полносвязные и свёрточные нейронные сети](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_4_%22%5Bhomework%5Ddense_and_convolutional_nn_ipynb%22.ipynb) |ДЗ_4 - по FCN и CNN|
 |12             |[Регуляризация нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/Продвинутое_обучение_%22%5Bseminar%5Dpytorch_bn_dropout_ipynb%22.ipynb) |Использование BatchNorm и Dropout|
+|13             |[Оптимизаторы нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/%22%5Bseminar%5Dpytorch_optimizers_ipynb%22.ipynb) |Использование Adam, Weight decay, lr scheduilng|
