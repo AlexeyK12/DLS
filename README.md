@@ -23,4 +23,4 @@
 |13             |[Оптимизаторы нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/%22%5Bseminar%5Dpytorch_optimizers_ipynb%22.ipynb) |Использование Adam, Weight decay, lr scheduilng|
 |14             |[Архитектуры свёрточных нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/DLS-CNN%20Architectures.pdf) |Классификация изображений на CNN|
 |15             |[Соревнование Kaggle - CNN](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_5_%22simpsons_baseline_ipynb%22.ipynb) |ДЗ_5 Соревнование на Kaggle с использованием свёрточных нейронных сетей|
-|16             |[Transfer_learning |](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dtransfer_learning.ipynb)  [CNN_optimization](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconv_net_optimization.ipynb)|Семинар по дообучению и оптимизации CNN|
+|16             |[Transfer_learning](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dtransfer_learning.ipynb)    [CNN_optimization](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconv_net_optimization.ipynb)|Семинар по дообучению и оптимизации CNN|
