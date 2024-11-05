@@ -21,3 +21,6 @@
 |11             |[Практика полносвязные и свёрточные нейронные сети](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_4_%22%5Bhomework%5Ddense_and_convolutional_nn_ipynb%22.ipynb) |ДЗ_4 - по FCN и CNN|
 |12             |[Регуляризация нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/Продвинутое_обучение_%22%5Bseminar%5Dpytorch_bn_dropout_ipynb%22.ipynb) |Использование BatchNorm и Dropout|
 |13             |[Оптимизаторы нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/%22%5Bseminar%5Dpytorch_optimizers_ipynb%22.ipynb) |Использование Adam, Weight decay, lr scheduilng|
+|14             |[Архитектуры свёрточных нейронных сетей](https://github.com/AlexeyK12/DLS/blob/main/DLS-CNN%20Architectures.pdf) |Классификация изображений на CNN|
+|15             |[Соревнование Kaggle - CNN](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_5_%22simpsons_baseline_ipynb%22.ipynb) |ДЗ_5 Соревнование на Kaggle с использованием свёрточных нейронных сетей|
+|16             |[Transfer_learning](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dtransfer_learning.ipynb)  [CNN_optimization](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconv_net_optimization.ipynb)|Семинар по дообучению и оптимизации CNN|
