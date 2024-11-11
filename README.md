@@ -25,3 +25,5 @@
 |15             |[Соревнование Kaggle - CNN](https://github.com/AlexeyK12/DLS/blob/main/ДЗ_5_%22simpsons_baseline_ipynb%22.ipynb) |ДЗ_5 Соревнование на Kaggle с использованием свёрточных нейронных сетей|
 |16             |[Transfer_learning](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dtransfer_learning.ipynb)         [CNN_optimization](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dconv_net_optimization.ipynb)|Семинар по дообучению и оптимизации CNN|
 |17             |[Семантическая сегментация](https://github.com/AlexeyK12/DLS/blob/main/DLS-Segmentation.pdf) |Лекция Татьяны Гайнцевой по семантической сегментации|
+|18             |[Семинар - Семантическая сегментация изображений](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22seminar_15_2_ipynb%22.ipynb) |Семинар_1 по семантической сегментации|
+|19             |[Сегментация изображений с камеры беспилотника](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22gb_segmentation_for_self_driving_cars_pytorch_new_ipynb%22.ipynb) |Семинар_2 по семантической сегментации|
