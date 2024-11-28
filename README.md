@@ -28,5 +28,10 @@
 |18             |[Семинар - Семантическая сегментация изображений](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22seminar_15_2_ipynb%22.ipynb) |Семинар_1 по семантической сегментации|
 |19             |[Сегментация изображений с камеры беспилотника](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22gb_segmentation_for_self_driving_cars_pytorch_new_ipynb%22.ipynb) |Семинар_2 по семантической сегментации|
 |20             |[ДЗ Сегментация изображений в медицине](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22updated_hw_16_1_semantic_segmentation_not_filled_ipynb%22.ipynb) |ДЗ_6 по семантической сегментации|
-|21             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |ДЗ_7 по автоэнкодерам|
+|21             |[Лекция 1 Генеративные модели](https://github.com/AlexeyK12/DLS/blob/main/VAE.pdf) |Лекция Генеративные модели|
+|22             |[Лекция 2 Генеративные модели](https://github.com/AlexeyK12/DLS/blob/main/VAE_конспект.pdf) |Лекция Генеративные модели|
+|23             |[Семинар 1 - Генеративные модели для временных рядов](https://github.com/AlexeyK12/DLS/blob/main/%22%5Bseminar%5Dgenerative_models_timeseries_ipynb%22.ipynb) |Семинар - решение задачи детекции аномалий во временных рядах|
+|24             |[Семинар 2 - дискриминативные модели и латентные вектора](https://branched-basilisk-89b.notion.site/b54c65d376254052adf216c60328688c) |Семинар Генеративные модели|
+|25             |[Семинар 3 - Генеративные модели](https://drive.google.com/file/d/1ScYxiVZ8GunQag9zgsMIeauRvvE6zk_g/view) |Семинар презентация|
+|26             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |ДЗ_7 по автоэнкодерам|
 
