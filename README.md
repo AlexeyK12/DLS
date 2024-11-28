@@ -27,6 +27,6 @@
 |17             |[Семантическая сегментация](https://github.com/AlexeyK12/DLS/blob/main/DLS-Segmentation.pdf) |Лекция Татьяны Гайнцевой по семантической сегментации|
 |18             |[Семинар - Семантическая сегментация изображений](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22seminar_15_2_ipynb%22.ipynb) |Семинар_1 по семантической сегментации|
 |19             |[Сегментация изображений с камеры беспилотника](https://github.com/AlexeyK12/DLS/blob/main/Копия_блокнота_%22gb_segmentation_for_self_driving_cars_pytorch_new_ipynb%22.ipynb) |Семинар_2 по семантической сегментации|
-|20             |[ДЗ Сегментация изображений в медицине](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22updated_hw_16_1_semantic_segmentation_not_filled_ipynb%22.ipynb) |Домашнее задание по семантической сегментации|
-|21             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |Домашнее задание по автоэнкодерам|
+|20             |[ДЗ Сегментация изображений в медицине](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22updated_hw_16_1_semantic_segmentation_not_filled_ipynb%22.ipynb) |ДЗ_6 по семантической сегментации|
+|21             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |ДЗ_7 по автоэнкодерам|
 
