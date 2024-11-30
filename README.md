@@ -34,4 +34,6 @@
 |24             |[Семинар 2 - дискриминативные модели и латентные вектора](https://branched-basilisk-89b.notion.site/b54c65d376254052adf216c60328688c) |Семинар Генеративные модели|
 |25             |[Семинар 3 - Генеративные модели](https://drive.google.com/file/d/1ScYxiVZ8GunQag9zgsMIeauRvvE6zk_g/view) |Семинар презентация|
 |26             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |ДЗ_7 по автоэнкодерам|
+|27             |[Лекция - Генеративно-состязательные сети](https://github.com/AlexeyK12/DLS/blob/main/Generative%20models%20pt.2.pdf) |Лекция - презентация|
+|28             |[Семинар - Генеративно-состязательные сети](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dgan.ipynb) |Семинар GAN|
 
