@@ -36,6 +36,6 @@
 |26             |[ДЗ Генеративные модели - Автоэнкодеры](https://github.com/AlexeyK12/DLS/blob/main/AK_12_%22%5Bhw%5Dautoencoders_ipynb%22.ipynb) |ДЗ_7 по автоэнкодерам|
 |27             |[Лекция - Генеративно-состязательные сети](https://github.com/AlexeyK12/DLS/blob/main/Generative%20models%20pt.2.pdf) |Лекция - презентация|
 |28             |[Семинар 1 - Генеративно-состязательные сети](https://github.com/AlexeyK12/DLS/blob/main/%5Bseminar%5Dgan.ipynb) |Семинар GAN - Ямалутдинов Антон|
-|29             |[Семинар 2 - Генеративно-состязательные сети](https://colab.research.google.com/drive/1sd7UNua8LQbhsbIB9PfAbt8bAlc4eo0i?usp=sharing) |Семинар GAN - Коновалова Нина|
+|29             |[Семинар 2 - Генеративно-состязательные сети](https://colab.research.google.com/drive/1sd7UNua8LQbhsbIB9PfAbt8bAlc4eo0i?usp=sharing) |Семинар "Инверсия StyleGAN-2" - Коновалова Нина|
 |30             |[Итоговый проект](https://github.com/AlexeyK12/Implementation-of-the-article-StyleGAN-NADA) |Имплементация статьи - "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators"| 
 
